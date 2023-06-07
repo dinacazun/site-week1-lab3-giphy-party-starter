@@ -3,10 +3,11 @@
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "American Typewriter";
   font-size: 16px;
-  margin: 0;
-  padding: 0;
+  margin: 30;
+  padding: 30;
+  background-color: pink;
 }
 
 h1 {
